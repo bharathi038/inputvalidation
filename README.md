@@ -1,2 +1,2 @@
 # inputvalidation
-Javascript input validatons
+Javascript input validation
